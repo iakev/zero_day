@@ -1,0 +1,1 @@
+This is the root folder of this repository containing a file with my vagrant file description.
