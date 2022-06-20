@@ -1,0 +1,1 @@
+This project is about setting up my development environmment with virtualbox and vagrant to match ALX school development environment. Thus, enabling me to do projects on my local machine not necessarily on the sandboxes.
